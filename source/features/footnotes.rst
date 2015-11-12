@@ -20,7 +20,7 @@
 
 .. [*] This footnote just has a symbol.
 
-.. [*] This footnote has a different symbol.
+.. [*] This footnote is given a different symbol automatically.
 
 .. [PyMOTW] This is a citation.
 
