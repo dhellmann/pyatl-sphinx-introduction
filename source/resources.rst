@@ -30,4 +30,4 @@ docutils_
 
 .. _docutils: http://docutils.sourceforge.net/
 
-.. _BitBucket: http://bitbucket.org/
+.. _Github: http://github.com/
