@@ -18,7 +18,17 @@ MyClass
 Methods
 -------
 
+.. literalinclude:: example.py
+   :lines: 26-29
+
 .. automethod:: MyClass.another_method
+
+.. literalinclude:: example.py
+   :lines: 31-39
+
+.. automethod:: MyClass.method_with_arguments
+
+
 
 main()
 ======

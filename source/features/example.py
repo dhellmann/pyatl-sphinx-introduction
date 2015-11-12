@@ -28,6 +28,16 @@ class MyClass(object):
         """
         return self.arg1 * 2
 
+    def method_with_arguments(self, a, b):
+        """This method takes arguments.
+
+        :param a: The first argument.
+        :type a: int
+        :param b: The second argument.
+        :type b: str
+        """
+        return (self.arg1 * a) + b
+
 def main():
     o = MyClass('foo ')
     print o.another_method()
