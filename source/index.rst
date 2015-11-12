@@ -16,7 +16,7 @@ like HTML and PDF.
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    features/index
    using/index
