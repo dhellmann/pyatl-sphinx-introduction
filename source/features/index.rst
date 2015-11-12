@@ -6,7 +6,8 @@
     :maxdepth: 1
     
     reStructuredText
-    output_formats
+    structure
     footnotes
     auto_index
     code
+    output_formats
