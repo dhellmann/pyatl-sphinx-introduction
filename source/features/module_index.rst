@@ -1,5 +1,5 @@
-############
-Module Index
-############
+==============
+ Module Index
+==============
 
 - Modules automatically indexed

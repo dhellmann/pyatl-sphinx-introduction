@@ -1,6 +1,6 @@
-############
-Using Sphinx
-############
+==============
+ Using Sphinx
+==============
 
 .. toctree::
     :maxdepth: 1

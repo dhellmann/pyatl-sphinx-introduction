@@ -1,6 +1,6 @@
-####################
-Additional Resources
-####################
+======================
+ Additional Resources
+======================
 
 Sphinx_
     The Sphinx home page, including the user manual and links to projects that use Sphinx for their documentation.

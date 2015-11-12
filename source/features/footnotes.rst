@@ -1,6 +1,6 @@
-#########
-Footnotes
-#########
+===========
+ Footnotes
+===========
 
 .. index::
     single: reStructuredText

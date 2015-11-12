@@ -1,6 +1,6 @@
-#############
-Building Docs
-#############
+===============
+ Building Docs
+===============
 
 - ``sphinx-build``
 - only modified files are updated [*]_

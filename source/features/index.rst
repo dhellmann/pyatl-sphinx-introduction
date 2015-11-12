@@ -1,6 +1,6 @@
-########
-Features
-########
+==========
+ Features
+==========
 
 .. toctree::
     :maxdepth: 1

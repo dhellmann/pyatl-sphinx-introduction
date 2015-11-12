@@ -1,6 +1,6 @@
-#########################
-Input is reStructuredText
-#########################
+===========================
+ Input is reStructuredText
+===========================
 
 .. index::
     single: reStructuredText

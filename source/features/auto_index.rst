@@ -1,6 +1,6 @@
-#############################
-Automatically Generated Index
-#############################
+===============================
+ Automatically Generated Index
+===============================
 
 - Insert index markers
 - Hyperlinks or cross-references generated in the build

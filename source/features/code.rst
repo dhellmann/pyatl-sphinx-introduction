@@ -1,6 +1,6 @@
-################################
-Special Handling for Source Code
-################################
+==================================
+ Special Handling for Source Code
+==================================
 
 .. index::
     pair: source; code

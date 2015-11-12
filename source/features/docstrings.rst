@@ -1,6 +1,6 @@
-######################
-Incorporate docstrings
-######################
+========================
+ Incorporate docstrings
+========================
 
 .. index::
     pair: source; code

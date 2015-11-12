@@ -1,6 +1,6 @@
-###################
-Syntax Highlighting
-###################
+=====================
+ Syntax Highlighting
+=====================
 
 .. include:: example.py
     :literal:

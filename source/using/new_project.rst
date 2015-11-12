@@ -1,6 +1,6 @@
-###############
-Getting Started
-###############
+=================
+ Getting Started
+=================
 
 Starting a brand new project is as simple as running the interactive quickstart script::
 

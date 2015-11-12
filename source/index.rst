@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PyATL Sphinx Introduction
-=========================
+===========================
+ PyATL Sphinx Introduction
+===========================
 
 Sphinx_ is a documentation preparation tool that converts reStructuredText input files into several different output formats like HTML and PDF.  
 
